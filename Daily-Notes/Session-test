@@ -1,0 +1,4 @@
+git clone repo-name
+git push
+git pull
+git commit -m "test"
